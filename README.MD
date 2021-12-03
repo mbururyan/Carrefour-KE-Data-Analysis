@@ -1,21 +1,28 @@
-# ADVERTISEMENTS RECOMMENDATION
+# CARREFOUR KENYA CUSTOMER ANALYSIS
 
 # Introduction
-This is a project that aims to assist a customer understand which of her clients is most likely to click on an ad that she ran on her crypto-currency website
+This is a project where unsupervised learning techniques will be imp[lemented on sets of data provided by Carrefoyr Kenya so as to help improve the company's sales. 
+
+Techniques to be implemented includes : 
+- Dimensional reduction
+- Feature Selection
+- Association rules
+- Anomaly detection
 
 # Names of Contributors
 - Ryan Mburu
 
 # Date of completion
-19/10/2021
+03/11/2021
 
 # Motivation
-The project was a requirement by Moringa School, as a weekly Independent Project in the twelfth week of core in Data Science.
+The project was a requirement by Moringa School, as a weekly Independent Project in the 14th week of core in Data Science.
 
-Another motivation is to practice data manipulation in R.
+Another motivation is to practice unsupervised learning in R.
 
 # Technologies used
 - R Studio
+- Colab
 - Git
 - Microsoft Excel
 
@@ -23,7 +30,7 @@ Another motivation is to practice data manipulation in R.
 - R
 
 # Setup
-The project is to be downloaded with the datasets, for easier retrival of information. Use of an editer that supports R Studio is required.
+The project is to be downloaded with the data sets, for easier retrival of information. Use of an editer that supports R Studio is required.
 
 # Contact Details
 Incase of any problems when accessing the project, or any questions, feel free to contact me via my email - mbururyan31@gmail.com
